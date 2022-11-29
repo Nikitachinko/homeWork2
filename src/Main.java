@@ -53,7 +53,7 @@ public class Main {
         System.out.println(weightDifference);
         var weightDifference2 = twoBoxer % oneBoxer;
         System.out.println(weightDifference2);
-        System.out.println("Задача 8!");
+        System.out.println("Задача 8");
         var totalTime1 = 640;
         System.out.println("Общее кол-во часов- "+ totalTime1 + " часов ");
         var totalWorkers1 = totalTime1/8;
