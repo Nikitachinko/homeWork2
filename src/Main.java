@@ -6,7 +6,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println(" Задачи (1-3) ");
+        System.out.println(" Задачи 1-3 ");
         var dog = 8.0;
         System.out.println(dog);
         var cat = 3.6;
@@ -27,7 +27,7 @@ public class Main {
         System.out.println(paper);
     }
     public static void task2() {
-        System.out.println(" Задачи (4-5) ");
+        System.out.println(" Задачи 4-5 ");
         var friend = 19;
         System.out.println(friend);
         friend = friend * 2;
@@ -44,7 +44,7 @@ public class Main {
         System.out.println(frog);
     }
     public static void task3() {
-        System.out.println(" Задачи (6-7) ");
+        System.out.println(" Задачи 6-7 ");
         var oneBoxer = 78.2;
         var twoBoxer = 82.7;
         var totalWeight = oneBoxer+twoBoxer;
@@ -53,7 +53,7 @@ public class Main {
         System.out.println(weightDifference);
         var weightDifference2 = twoBoxer % oneBoxer;
         System.out.println(weightDifference2);
-        System.out.println("Задача 8!");
+        System.out.println("Задача 8");
         var totalTime1 = 640;
         System.out.println("Общее кол-во часов- "+ totalTime1 + " часов ");
         var totalWorkers1 = totalTime1/8;
